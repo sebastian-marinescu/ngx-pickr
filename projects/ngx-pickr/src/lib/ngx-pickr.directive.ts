@@ -11,7 +11,7 @@ import {
   SimpleChanges
 } from '@angular/core';
 
-import Pickr from 'node_modules/@simonwep/pickr/dist/pickr.min';
+import Pickr from '@simonwep/pickr/dist/pickr.min';
 import {DOCUMENT} from '@angular/common';
 import {PickrInstance} from './types/pickr-instance';
 import {HsvaColorObject} from './types/hsva-color-object';
